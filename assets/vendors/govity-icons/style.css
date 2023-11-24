@@ -1,0 +1,165 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon3232.eot?ar3v0u');
+  src:  url('fonts/icomoon3232.eot?ar3v0u#iefix') format('embedded-opentype'),
+    url('fonts/icomoon3232.ttf?ar3v0u') format('truetype'),
+    url('fonts/icomoon3232.woff?ar3v0u') format('woff'),
+    url('fonts/icomoon3232.svg?ar3v0u#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e92d";
+}
+.icon-telephone:before {
+  content: "\e900";
+}
+.icon-email:before {
+  content: "\e901";
+}
+.icon-pin:before {
+  content: "\e902";
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-placeholder:before {
+  content: "\e904";
+}
+.icon-career-choice:before {
+  content: "\e905";
+}
+.icon-tick:before {
+  content: "\e906";
+}
+.icon-cardiogram:before {
+  content: "\e907";
+}
+.icon-chat:before {
+  content: "\e908";
+}
+.icon-city-hall:before {
+  content: "\e909";
+}
+.icon-loan:before {
+  content: "\e90a";
+}
+.icon-government:before {
+  content: "\e90b";
+}
+.icon-phone-call:before {
+  content: "\e90c";
+}
+.icon-right-arrow:before {
+  content: "\e90d";
+}
+.icon-left-arrow:before {
+  content: "\e90e";
+}
+.icon-up-arrow:before {
+  content: "\e90f";
+}
+.icon-down-arrow:before {
+  content: "\e910";
+}
+.icon-tuscany:before {
+  content: "\e911";
+}
+.icon-police-badge:before {
+  content: "\e912";
+}
+.icon-buildings:before {
+  content: "\e913";
+}
+.icon-ferris:before {
+  content: "\e914";
+}
+.icon-goals:before {
+  content: "\e915";
+}
+.icon-sun-day-weather-symbol:before {
+  content: "\e916";
+}
+.icon-clock:before {
+  content: "\e917";
+}
+.icon-down-right:before {
+  content: "\e918";
+}
+.icon-accept:before {
+  content: "\e919";
+}
+.icon-history:before {
+  content: "\e91a";
+}
+.icon-newsletter:before {
+  content: "\e91b";
+}
+.icon-policy:before {
+  content: "\e91c";
+}
+.icon-quote:before {
+  content: "\e91d";
+}
+.icon-pdf-file:before {
+  content: "\e91e";
+}
+.icon-download-circular-button:before {
+  content: "\e91f";
+}
+.icon-up-circular-button:before {
+  content: "\e920";
+}
+.icon-left-circular-button:before {
+  content: "\e921";
+}
+.icon-right-circular-button:before {
+  content: "\e922";
+}
+.icon-corporate:before {
+  content: "\e923";
+}
+.icon-cityscape:before {
+  content: "\e924";
+}
+.icon-government-1:before {
+  content: "\e925";
+}
+.icon-parthenon:before {
+  content: "\e926";
+}
+.icon-suitcase:before {
+  content: "\e927";
+}
+.icon-industry:before {
+  content: "\e928";
+}
+.icon-bus:before {
+  content: "\e929";
+}
+.icon-lotus:before {
+  content: "\e92a";
+}
+.icon-magnifying-glass:before {
+  content: "\e92b";
+}
+.icon-phone-call-1:before {
+  content: "\e92c";
+}

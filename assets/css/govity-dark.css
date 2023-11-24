@@ -1,0 +1,240 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.main-header,
+.about-one__call-icon,
+.testimonial-one__single-inner,
+.event-one__single {
+    background-color: #101010;
+}
+
+.stricky-header.main-menu {
+    background-color: #101010;
+}
+
+.main-menu__top-right,
+.about-one__call-box,
+.event-one__tag,
+.news-one__content {
+    background-color: var(--govity-black);
+}
+
+.main-menu__social a,
+.main-menu__contact-list li .text p a,
+.main-menu__top-menu li a,
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a,
+.main-menu__call-sub-title,
+#polyglotLanguageSwitcher a,
+#polyglotLanguageSwitcher span.trigger:before,
+.language-switcher .bootstrap-select>.dropdown-toggle,
+.language-switcher .bootstrap-select>.dropdown-toggle::after,
+.about-one__call-text,
+.section-title__tagline,
+.about-one__text,
+.services-one__points-list li a,
+.team-one__sub-title,
+.testimonial-one__text,
+.testimonial-one__client-sub-title,
+.event-one__tag p,
+.event-one__meta li .text p,
+.news-one__user-text p,
+.news-one__meta .text p,
+.news-one__btn a {
+    color: #777777;
+}
+
+.main-menu__call-number a,
+.main-menu__search,
+.about-one__call-number a,
+.section-title__title,
+.about-one__icon span,
+.team-one__name a,
+.testimonial-one__client-name,
+.event-one__title a,
+.news-one__title a {
+    color: var(--govity-white);
+}
+
+.main-menu__top-menu li a:before {
+    background-color: #777777;
+}
+
+.main-menu .main-menu__list>li.current>a,
+.main-menu .main-menu__list>li:hover>a,
+.stricky-header .main-menu__list>li.current>a,
+.stricky-header .main-menu__list>li:hover>a {
+    color: var(--govity-white);
+    text-shadow: 1px 0 0 rgb(255 255 255 / 80%);
+}
+
+.main-menu__call-icon {
+    background-color: #000000;
+}
+
+.main-menu__call-icon:hover {
+    background-color: var(--govity-white);
+}
+
+.main-menu__search-box:before {
+    background-color: #262626;
+}
+
+.about-one__video-icon:before,
+.about-one__video-icon:after {
+    border: 1px solid rgba(var(--govity-white-rgb), .10);
+}
+
+.about-one__video-icon:hover {
+    background-color: var(--govity-white);
+    color: var(--govity-base);
+}
+
+.about-one__shape-2 {
+    opacity: 0.05;
+}
+
+.about-one__icon-and-big-text {
+    border-bottom: 1px solid #262626;
+}
+
+.about-one__btn:before {
+    background-color: var(--govity-white);
+}
+
+.about-one__btn:hover {
+    color: var(--govity-base);
+}
+
+.about-one__btn:hover:before {
+    top: -40%;
+}
+
+.about-one__shape-3 {
+    opacity: 0.02;
+}
+
+
+.services-one::before {
+    background-color: var(--govity-black);
+}
+
+.services-one__left {
+    margin-right: 30px;
+    margin-left: -95px;
+    margin-top: 0;
+}
+
+.services-one__img {
+    mix-blend-mode: normal;
+}
+
+.services-one__img-shadow {
+    left: -10px;
+    background: rgb(21, 21, 21);
+    background: linear-gradient(0deg, rgba(21, 21, 21, 1) 11%, rgba(21, 21, 21, 0) 100%);
+}
+
+.services-one__shape-2 {
+    left: -160px;
+}
+
+.services-one__right::before {
+    background-color: #101010;
+}
+
+.services-one__points-list li a {
+    border-bottom: 1px solid #262626;
+}
+
+.services-one__points-list li:hover a {
+    color: var(--govity-white);
+}
+
+.services-one__points-list li:hover a span {
+    color: var(--govity-base);
+}
+
+.services-one__shape-3 {
+    opacity: 0.08;
+}
+
+.team-one__single {
+    background-color: var(--govity-black);
+}
+
+.team-one__social a {
+    color: var(--govity-white);
+    background-color: #101010;
+}
+
+.testimonial-one {
+    background-color: var(--govity-black);
+}
+
+.testimonial-one__bg {
+    opacity: 0.04;
+}
+
+.testimonial-one__quote {
+    border: 1px solid #262626;
+}
+
+.testimonial-one__quote span {
+    color: #262626;
+}
+
+.testimonial-one__shape-1 {
+    opacity: .17;
+}
+
+.brand-one__img:before {
+    background-color: var(--govity-black);
+}
+
+.brand-one__title p {
+    color: #777777;
+}
+
+.brand-one__title:before,
+.brand-one__title:after {
+    background-color: #262626;
+}
+
+.event-one__left {
+    background-color: var(--govity-black);
+}
+
+.event-one__left::before {
+    background-color: var(--govity-black);
+}
+
+.event-one__shape-1 {
+    opacity: 0.05;
+}
+
+.news-one__user {
+    border-right: 1px solid #262626;
+}
+
+.news-one__title {
+    border-bottom: 1px solid #262626;
+}
+
+.services-one__points-list li:last-child a {
+    border-bottom: 1px solid #262626;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
